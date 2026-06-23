@@ -9,7 +9,7 @@ Everything you need to know to play nicely on the Realm Gates server.
 
 ## Joining
 
-1. Install the modpack — **opens at release** *(coming soon; date to be announced)*.
+1. **[Install the modpack](getting-started/install.md)** — download the Realm Gates Installer (out now).
 2. Make sure your mods are **up to date** — see **[Updating](getting-started/updating.md)**.
 3. Get the **server address** from the admin (it isn't published here).
 4. Ask the admin to **whitelist** your exact in-game name (see below).

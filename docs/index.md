@@ -4,9 +4,9 @@ hide:
   - toc
 ---
 
-<div class="sb-soon" role="status">
-  <span class="sb-soon__tag"><span class="sb-soon__dot"></span>Coming soon</span>
-  <span class="sb-soon__text"><span class="sb-soon__lead">▸</span> The modpack &amp; server are on the way — <strong>release date to be announced soon.</strong></span>
+<div class="sb-soon sb-soon--live" role="status">
+  <span class="sb-soon__tag"><span class="sb-soon__dot"></span>Out now</span>
+  <span class="sb-soon__text"><span class="sb-soon__lead">▸</span> <strong>Released June 23, 2026 · 6:30 UTC.</strong> The installer is live — <a href="getting-started/install/">download it and jump in →</a></span>
 </div>
 
 <div class="sb-hero sb-hero--video">
@@ -19,8 +19,8 @@ hide:
     <h1 class="sb-hero__title sb-hero__title--logo"><img class="sb-hero__logo" src="assets/realm-gates-logo.png" alt="Realm Gates" width="1024" height="490" fetchpriority="high"></h1>
     <p class="sb-hero__lede">Something is devouring the worlds. We slip from realm to realm through the gates — always one step ahead of the <strong>Blight</strong>, surviving together.</p>
     <div class="sb-hero__cta">
-      <a class="md-button md-button--primary" href="mods/">Explore the dimensions</a>
-      <a class="md-button" href="concepts/">Read the concepts</a>
+      <a class="md-button md-button--primary" href="getting-started/install/">Install the modpack</a>
+      <a class="md-button" href="mods/">Explore the dimensions</a>
     </div>
   </div>
 </div>
@@ -28,12 +28,11 @@ hide:
 <p class="sb-eyebrow">Start here</p>
 
 <div class="sb-cards">
-  <div class="sb-card sb-card--locked" role="note" aria-disabled="true">
+  <a class="sb-card" href="getting-started/install/">
     <span class="sb-card__icon sb-ico-install"></span>
     <h3>Install</h3>
-    <span>Opens at release — date to be announced soon.</span>
-    <span class="sb-card__lock">Soon</span>
-  </div>
+    <span>Download the Realm Gates Installer — it sets up Forge, the mods and your profile for you.</span>
+  </a>
   <a class="sb-card" href="getting-started/voice-and-chat/">
     <span class="sb-card__icon sb-ico-voice"></span>
     <h3>Voice &amp; translation</h3>

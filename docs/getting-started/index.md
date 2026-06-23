@@ -13,12 +13,11 @@ hide:
 Three quick steps and you're through the gate. Pick a card below.
 
 <div class="sb-cards">
-  <div class="sb-card sb-card--locked" role="note" aria-disabled="true">
+  <a class="sb-card" href="install/">
     <span class="sb-card__icon sb-ico-install"></span>
     <h3>1 · Install</h3>
-    <span>Opens at release — the modpack isn't out yet. Release date to be announced soon.</span>
-    <span class="sb-card__lock">Soon</span>
-  </div>
+    <span>Download the Realm Gates Installer — it sets up Forge, the mods and your profile in one click.</span>
+  </a>
   <a class="sb-card" href="voice-and-chat/">
     <span class="sb-card__icon sb-ico-voice"></span>
     <h3>2 · Voice &amp; translation</h3>
