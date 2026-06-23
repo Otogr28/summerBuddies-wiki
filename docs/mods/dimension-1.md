@@ -15,8 +15,9 @@ and plays like a familiar overworld, but it's a far bigger, wilder one: the land
 **[Terralith](terralith.md)** into towering mountains, deep canyons and over a hundred biomes, then
 filled out with the modded biomes, woods and crops of
 **[Oh The Biomes We've Gone](oh-the-biomes-weve-gone.md)**. Beneath it lie the six exotic worlds of
-**[Alex's Caves](alexs-caves.md)**; above and across it roam **[Ice and Fire](ice-and-fire.md)**
-dragons, **[Born in Chaos](born-in-chaos.md)** night-horrors and reworked structures worth raiding.
+**[Alex's Caves](alexs-caves.md)**; across it roam **[Ice and Fire](ice-and-fire.md)** mythical beasts
+and a **[Born in Chaos](born-in-chaos.md)** night horde, between reworked structures worth raiding.
+*(The Ice &amp; Fire dragons themselves are sealed out of Aincrad — for now.)*
 
 <p class="sb-eyebrow">The story begins here</p>
 

@@ -206,17 +206,52 @@ dedicated slots, stacking bonuses and abilities on top of your normal gear.</p>
 
   <article class="sb-codex__entry">
     <div class="sb-codex__media">
-      <img src="../assets/mods/ice-and-fire-banner.webp" alt="Apex dragons and mythical beasts" loading="lazy">
+      <img src="../assets/mods/born-in-chaos-banner.webp" alt="The night horde of Aincrad" loading="lazy">
+    </div>
+    <div class="sb-codex__body">
+      <div class="sb-codex__head">
+        <span class="sb-codex__ico sb-ico-corruption"></span>
+        <h2 class="sb-codex__title">The night horde</h2>
+        <span class="sb-codex__cat sb-codex__cat--danger">Danger</span>
+      </div>
+      <p>When the sun goes down, Aincrad turns hostile. A whole bestiary of <strong>undead and nightmares</strong> crawls
+out of the dark — shambling corpses, dread hounds, screaming skeletons and worse — and the mobs that
+once ignored you now <strong>hunt you by light, sound and scent</strong>. Biome creepers blend into the scenery
+until they don't. Get light, walls and a weapon before dusk.</p>
+    </div>
+  </article>
+
+  <article class="sb-codex__entry">
+    <div class="sb-codex__media">
+      <img src="../assets/mods/ice-and-fire-banner.webp" alt="Mythical beasts of the wilds" loading="lazy">
     </div>
     <div class="sb-codex__body">
       <div class="sb-codex__head">
         <span class="sb-codex__ico sb-ico-dragon"></span>
-        <h2 class="sb-codex__title">Dragons &amp; beasts</h2>
+        <h2 class="sb-codex__title">Mythical beasts</h2>
         <span class="sb-codex__cat sb-codex__cat--danger">Danger</span>
       </div>
-      <p>The realms are guarded by <strong>apex monsters</strong> — fire, ice and lightning <strong>dragons</strong> you can raise
-from an egg and one day <strong>ride</strong>, plus mythical beasts hoarding the best loot. The strongest gear
-in the game is forged from what you take off them.</p>
+      <p>The wilds hide <strong>mythical beasts</strong> worth the fight — sea serpents and charming sirens in the
+water, <strong>death worms</strong> bursting from the desert sand, cyclopes, trolls and more, each hoarding loot
+you can't get any other way. One thing you <em>won't</em> meet in Aincrad: the <strong>dragons are sealed out of
+the home realm</strong> — the Gates keep them beyond it, for now.</p>
+    </div>
+  </article>
+
+  <article class="sb-codex__entry">
+    <div class="sb-codex__media">
+      <img src="../assets/mods/alexs-caves-banner.webp" alt="The exotic caves beneath Aincrad" loading="lazy">
+    </div>
+    <div class="sb-codex__body">
+      <div class="sb-codex__head">
+        <span class="sb-codex__ico sb-ico-dimensions"></span>
+        <h2 class="sb-codex__title">The deep below</h2>
+        <span class="sb-codex__cat sb-codex__cat--danger">Danger</span>
+      </div>
+      <p>Dig down and Aincrad opens into the <strong>six exotic worlds of Alex's Caves</strong> — magnetic robots,
+prehistoric titans, a radioactive wasteland and an ocean abyss. The deeper you go, the bigger what
+lives there: from a chunk-eating <strong>Nucleeper</strong> to a 500-HP kaiju you'd be wise to avoid until you're
+ready.</p>
     </div>
   </article>
 

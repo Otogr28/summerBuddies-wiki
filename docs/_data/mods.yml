@@ -75,7 +75,7 @@ groups:
       - name: "Ice and Fire: Dragons"
         href: ice-and-fire
         img: assets/mods/ice-and-fire-banner.webp
-        desc: "Dragons and mythical beasts. Tame one and earn the pack's strongest gear."
+        desc: "A mythological bestiary — hydras, cyclopes, sirens, death worms and more. (Dragons are sealed out of Aincrad.)"
       - name: Creeper Overhaul
         href: creeper-overhaul
         img: assets/mods/creeper-overhaul-banner.webp
@@ -332,7 +332,7 @@ home_teaser:
   - name: Ice & Fire
     img: assets/mods/ice-and-fire-banner.webp
     url: https://modrinth.com/mod/ice-and-fire-dragons
-    desc: "Tame dragons and fight mythical beasts for the strongest gear in the pack."
+    desc: "Hunt a mythological bestiary — hydras, cyclopes, sirens, trolls and death worms."
   - name: Alex's Caves
     img: assets/mods/alexs-caves-banner.webp
     url: https://modrinth.com/mod/alexs-caves

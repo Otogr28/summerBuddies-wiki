@@ -34,11 +34,10 @@ The server is **whitelisted** — only approved players can join. To get on:
 ## Be a good guest
 
 - **No griefing.** Some mods can cause **terrain-destroying explosions** (e.g. the Nucleeper /
-  Nuclear Bomb in [Alex's Caves](mods/alexs-caves.md), and tamed dragons in
-  [Ice and Fire](mods/ice-and-fire.md)). Keep that destruction away from shared
-  areas and other people's builds.
-- **Mind performance.** Big mobs (dragons, hydras, bosses) and huge farms can strain the server. If
-  things get laggy, thin out heavy entities.
+  Nuclear Bomb in [Alex's Caves](mods/alexs-caves.md)) or break blocks ([Ice and Fire](mods/ice-and-fire.md)
+  cyclopes and death worms). Keep that destruction away from shared areas and other people's builds.
+- **Mind performance.** Big mobs (hydras, cyclopes, cave titans) and huge farms can strain the server.
+  If things get laggy, thin out heavy entities.
 - **Voice etiquette.** Use push-to-talk, and remember voice is **proximity-based** — move closer to
   be heard, or use a group channel.
 - **Save on translation.** Translation runs through a paid backend, so help keep it cheap: group up
