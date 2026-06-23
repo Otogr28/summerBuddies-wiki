@@ -9,13 +9,19 @@ hide:
   <span class="sb-soon__text"><span class="sb-soon__lead">▸</span> The modpack &amp; server are on the way — <strong>release date to be announced soon.</strong></span>
 </div>
 
-<div class="sb-hero">
-  <p class="sb-hero__eyebrow">Forge 1.20.1 · cooperative modpack</p>
-  <h1 class="sb-hero__title">Realm <span class="sb-amp">Gates</span></h1>
-  <p class="sb-hero__lede">Something is devouring the worlds. We slip from realm to realm through the gates — always one step ahead of the <strong>Blight</strong>, surviving together.</p>
-  <div class="sb-hero__cta">
-    <a class="md-button md-button--primary" href="mods/">Explore the dimensions</a>
-    <a class="md-button" href="concepts/">Read the concepts</a>
+<div class="sb-hero sb-hero--video">
+  <video class="sb-hero__video" autoplay muted loop playsinline preload="auto" poster="assets/hero-poster.webp" aria-hidden="true" tabindex="-1">
+    <source src="assets/hero.mp4" type="video/mp4">
+  </video>
+  <div class="sb-hero__scrim" aria-hidden="true"></div>
+  <div class="sb-hero__content">
+    <p class="sb-hero__eyebrow">Forge 1.20.1 · cooperative modpack</p>
+    <h1 class="sb-hero__title sb-hero__title--logo"><img class="sb-hero__logo" src="assets/realm-gates-logo.png" alt="Realm Gates" width="1024" height="490" fetchpriority="high"></h1>
+    <p class="sb-hero__lede">Something is devouring the worlds. We slip from realm to realm through the gates — always one step ahead of the <strong>Blight</strong>, surviving together.</p>
+    <div class="sb-hero__cta">
+      <a class="md-button md-button--primary" href="mods/">Explore the dimensions</a>
+      <a class="md-button" href="concepts/">Read the concepts</a>
+    </div>
   </div>
 </div>
 

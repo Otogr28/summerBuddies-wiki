@@ -26,7 +26,7 @@ that follow you everywhere, or **Unassigned** if it hasn't been pinned to a real
   </a>
   <a class="mod-card" href="dimension-1/">
     <span class="mod-card__media"><span class="mod-card__tier">Aincrad</span><img src="../assets/mods/aincrad-banner.webp" alt="Dimension 1 — Aincrad" loading="lazy"></span>
-    <span class="mod-card__body"><span class="mod-card__h">Dimension 1 — Aincrad</span><span class="mod-card__p">Your home realm: a familiar overworld and the first gate the pack opens with.</span><span class="mod-card__link">Open →</span></span>
+    <span class="mod-card__body"><span class="mod-card__h">Dimension 1 — Aincrad</span><span class="mod-card__p">Your home realm: a vast Terralith overworld where you wake, meet the Traveler, and the story begins.</span><span class="mod-card__link">Open →</span></span>
   </a>
   <span class="mod-card is-soon">
     <span class="mod-card__media is-empty is-lock"></span>

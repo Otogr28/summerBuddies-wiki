@@ -59,6 +59,15 @@ groups:
         img: assets/mods/biomes-weve-gone-banner.webp
         desc: "50+ new biomes, ~24 woods, crops and fruit — a huge, varied world."
         # dimension: ~   (no realm assigned yet)
+      - name: Terralith
+        href: terralith
+        img: assets/mods/terralith-banner.webp
+        desc: "Reshapes the overworld itself — towering peaks, deep canyons and 100+ vanilla-style biomes. Aincrad's terrain."
+      - name: Oh The Trees You'll Grow
+        href: oh-the-trees-youll-grow
+        img: assets/mods/oh-the-trees-youll-grow.png
+        media: icon
+        desc: "Grander, more varied trees from the Biomes We've Gone team — they pair across the new world."
       - name: Alex's Caves
         href: alexs-caves
         img: assets/mods/alexs-caves-banner.webp
@@ -79,6 +88,10 @@ groups:
         href: zombie-awareness
         img: assets/mods/zombie-awareness-banner.webp
         desc: "Smarter, scarier mobs that hunt you by light, sound and your scent."
+      - name: Born in Chaos
+        href: born-in-chaos
+        img: assets/mods/born-in-chaos-banner.webp
+        desc: "A whole bestiary of new undead and nightmare mobs that make the dark genuinely dangerous."
       - name: P.E.K.K.A. Craft
         href: pekka-craft
         img: assets/mods/pekka-craft-banner.webp
@@ -96,6 +109,10 @@ groups:
         href: yungs-better-nether-fortresses
         img: assets/mods/yungs-better-nether-fortresses-banner.webp
         desc: "Bigger, more interesting fortresses to explore."
+      - name: Better Desert Temples
+        href: yungs-better-desert-temples
+        img: assets/mods/yungs-better-desert-temples-banner.webp
+        desc: "Turns the flat little pyramid into a sprawling, trap-filled tomb worth raiding."
       - name: Better End Island
         href: yungs-better-end-island
         img: assets/mods/yungs-better-end-island-banner.webp
@@ -211,6 +228,12 @@ groups:
         img: assets/mods/travelers-backpack-banner.webp
         dimension: all
         desc: "Big wearable backpacks with crafting, fluid tanks and perks."
+      - name: Sophisticated Backpacks
+        href: sophisticated-backpacks
+        img: assets/mods/sophisticated-backpacks.webp
+        media: icon
+        dimension: all
+        desc: "Upgradeable backpacks: auto-pickup, magnet, smelting and crafting on the move."
       - name: Easy Villagers
         href: easy-villagers
         img: assets/mods/easy-villagers.webp
@@ -285,6 +308,23 @@ groups:
         media: icon
         # dimension: ~   (unassigned — not pinned to a realm yet)
         desc: "Supplementaries add-on: colored sacks, candle holders, plaques and a unique master key."
+      - name: Fantasy's Furniture
+        href: fantasy-furniture
+        img: assets/mods/fantasy-furniture-banner.webp
+        dimension: all
+        desc: "Themed furniture sets — chairs, tables, drawers and lamps to make a base feel like home."
+      - name: "Let's Do: Candlelight"
+        href: letsdo-candlelight
+        img: assets/mods/letsdo-candlelight.webp
+        media: icon
+        dimension: all
+        desc: "Cozy dining and decor: tables, stools, candles and food for warm, lived-in interiors."
+      - name: Emote Craft
+        href: emotecraft
+        img: assets/mods/emotecraft.webp
+        media: icon
+        dimension: all
+        desc: "Bind and play emotes — wave, sit, dance — for some roleplay and personality."
 
 # --- Curated set for the HOME page teaser (external links) --
 #  These reference mods by their group/name but point to Modrinth.

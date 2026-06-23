@@ -80,6 +80,21 @@ like a slog.</p>
     </div>
   </article>
 
+  <article class="sb-codex__entry sb-codex__entry--noart">
+    <div class="sb-codex__body">
+      <div class="sb-codex__head">
+        <span class="sb-codex__ico sb-ico-companion"></span>
+        <h2 class="sb-codex__title">The Traveler</h2>
+        <span class="sb-codex__cat sb-codex__cat--world">World</span>
+      </div>
+      <p>An old man who has <strong>walked through more worlds than he can count</strong>. He's waiting in
+<strong>Aincrad</strong> when you wake — the first face you meet, there to welcome you and help where he can. He
+plainly <strong>knows more than he says</strong>: he starts a sentence about who you are, then thinks better of
+it. For now he only asks that you grow strong and settle in. The heavier questions, he promises, will
+find you soon enough.</p>
+    </div>
+  </article>
+
 </div>
 
 <!-- ACT II — YOUR POWER -->

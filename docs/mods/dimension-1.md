@@ -10,12 +10,46 @@ hide:
   </div>
 </div>
 
-**Aincrad** — Dimension 1 — is where you spawn: a familiar, fully-featured **overworld**, and right
-now the only open realm. It's home to a huge world of new biomes, deep themed caves, mythical
-creatures and reworked structures.
+**Aincrad** — Dimension 1 — is where you **wake up**, and for now the **only open realm**. It looks
+and plays like a familiar overworld, but it's a far bigger, wilder one: the land is reshaped by
+**[Terralith](terralith.md)** into towering mountains, deep canyons and over a hundred biomes, then
+filled out with the modded biomes, woods and crops of
+**[Oh The Biomes We've Gone](oh-the-biomes-weve-gone.md)**. Beneath it lie the six exotic worlds of
+**[Alex's Caves](alexs-caves.md)**; above and across it roam **[Ice and Fire](ice-and-fire.md)**
+dragons, **[Born in Chaos](born-in-chaos.md)** night-horrors and reworked structures worth raiding.
 
-!!! info "Where are the mods?"
-    To keep things in one place for now, **every mod is listed together on the
+<p class="sb-eyebrow">The story begins here</p>
+
+Aincrad isn't just a sandbox — it's where the server's **story starts**. This world "has waited a
+long, long time," quiet and stopped somewhere back in the past, and you've woken into it. There's a
+thread to pull if you look: a **fog that lies too thick** beyond the Tree of Knowledge, and a corner
+of the map that feels… *wrong* — the first touch of the **[Blight](../concepts.md)**.
+
+<div class="sb-cards">
+  <div class="sb-card" role="note">
+    <span class="sb-card__icon sb-ico-companion"></span>
+    <h3>Meet the Traveler</h3>
+    <span>When you spawn, seek out the village. An old man is waiting there — the <strong>Traveler</strong>: kind, unhurried, and clearly carrying more than he says. He came to welcome you and help where he can. Talk to him; he's the first thread of the story.</span>
+  </div>
+  <a class="sb-card" href="../../concepts/">
+    <span class="sb-card__icon sb-ico-concepts"></span>
+    <h3>Read the lore</h3>
+    <span>What the Blight is, why realms are sealed, and the powers you'll wield — the whole codex lives on the Concepts page.</span>
+  </a>
+</div>
+
+!!! quote "He greets every newcomer the same way"
+    *"Ah… there you are. Awake at last. Welcome, friends, to this world. You are the— no. No, never
+    mind that. Forget I said anything. Welcome — that is what matters today."*
+
+    Ask him where you are, whether it's safe, what you should do. He'll tell you to **grow strong,
+    find companions, and enjoy yourselves** — the heavy questions, he says, can wait. *(They won't
+    wait forever.)*
+
+<p class="sb-eyebrow">Where are the mods?</p>
+
+!!! info "Everything's on one page for now"
+    To keep things in one place, **every mod is listed together on the
     [All mods](all-dimensions.md) page** — each with its own friendly write-up. We're still pinning
     the world, creature and structure mods to the realms they belong to (they show as **Unassigned**
     until then); the **All dimensions** mods are universal and follow you everywhere.
