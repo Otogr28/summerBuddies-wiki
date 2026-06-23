@@ -69,17 +69,22 @@
     radial-gradient(1200px 900px at 50% 120%, rgba(16, 32, 70, 0.6), transparent 60%);
   background-attachment: fixed;
 }
-/* subtle film grain over everything */
+/* subtle film grain over everything. z-index:-1 keeps it BEHIND all content so we
+   don't have to lift .md-main into its own stacking context — doing that trapped the
+   mobile nav drawer (z5, inside .md-main) below Material's root-level .md-overlay (z5),
+   which then ate every click on the drawer. */
 [data-md-color-scheme="summerbuddies"] body::before {
   content: "";
   position: fixed;
   inset: 0;
   pointer-events: none;
-  z-index: 0;
+  z-index: -1;
   opacity: 0.035;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
 }
-.md-main, .md-header, .md-footer { position: relative; z-index: 1; }
+/* NOTE: .md-main is intentionally NOT given a z-index here (see above) — only the
+   header/footer chrome is lifted, so the drawer stays in the root stacking context. */
+.md-header, .md-footer { position: relative; z-index: 1; }
 
 /* Wider, airier content column */
 .md-grid { max-width: 72rem; }
@@ -409,7 +414,14 @@ a.sb-card:hover h3 { color: var(--sb-gold); }
  * 13. Digital corruption — something is unmaking the realms.
  *     A glitchy data-rot creeping in from the left & right edges.
  * ---------------------------------------------------------- */
-[data-md-color-scheme="summerbuddies"] .md-header { z-index: 10; }
+/* Header stays at Material's default z-index (4) so the mobile nav drawer + overlay
+   (z5) sit ABOVE it as designed — bumping this to 10 used to cover the drawer. */
+[data-md-color-scheme="summerbuddies"] .md-header { z-index: 4; }
+
+/* The site title is linked home (title-home-link.js) — show it's clickable. */
+.md-header__title[data-home-linked] { cursor: pointer; }
+.md-header__title[data-home-linked] .md-header__topic { transition: color .2s ease; }
+.md-header__title[data-home-linked]:hover .md-header__topic:first-child { color: var(--sb-gold); }
 
 /* Concepts banner pulses with an unstable magenta/cyan glow */
 @keyframes sb-banner-flicker {

@@ -44,6 +44,8 @@ extra_javascript:
   # Live search + faceted filtering for the Mods catalogue (mods/browse.md).
   # Vanilla JS, re-binds on Material's instant-loading navigation.
   - javascripts/mods-filter.js
+  # Makes the header title ("Realm Gates") click through to the home page.
+  - javascripts/title-home-link.js
 
 markdown_extensions:
   - admonition
